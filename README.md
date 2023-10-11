@@ -16,3 +16,5 @@
    Somar itens: simula o valor de dada categoria
    <br>
    Simular valor total: simula o valor de todas as categorias criadas juntas
+
+   <img src="/TELA 1.png">

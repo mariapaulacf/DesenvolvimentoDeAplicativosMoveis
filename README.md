@@ -5,7 +5,7 @@
 
 *Mais informações serão adicionadas ao decorrer do projeto.*
 
-## Descrição da prototipação
+## Descrição da prototipação.
 
 * **Adicionar categoria:** Permite que você adicione a categoria desejada, podendo adapta-la para seu contexto de uso, como ideia de base iremos utilizar comprar em um mercado
    

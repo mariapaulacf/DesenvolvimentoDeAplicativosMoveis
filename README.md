@@ -6,9 +6,13 @@
 *Mais informações serão adicionadas ao decorrer do projeto.*
 
 ## Descrição da prototipação
-
+<br>
    Adicionar categoria: permite que você adicione a categoria desejada, podendo adapta-la para seu contexto de uso, como ideia de base iremos utilizar comprar em um mercado
+   <br>
    Editar itens: permite ao usuário editar os itens já adicionados alterando a quantidade e o valor
+   <br>
    Adicionar itens: permite adicionar o item desejado com a descrição que favoreça o compreendimento e necessidade do usuário
+   <br>
    Somar itens: simula o valor de dada categoria
+   <br>
    Simular valor total: simula o valor de todas as categorias criadas juntas
